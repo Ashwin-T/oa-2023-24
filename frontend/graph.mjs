@@ -1,7 +1,7 @@
 const graphDiv = document.getElementById("graph");
 
 fetch(
-    "http://localhost:3000/",
+    "https://oa-2023-24-ashwin.onrender.com/",
     {
         method: "GET",
         headers: {
